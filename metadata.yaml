@@ -1,0 +1,11 @@
+name: astrbot_plugin_xiaoya_feed
+display_name: 小亚信息流
+short_desc: 把 QQ 消息/机器人回复实时推给桌面宠物"小亚"的告示牌
+desc: 钩取全部平台消息（群聊/私聊/机器人回显），在服务器开放一个带 token 的 HTTP 信息流端点，桌面宠物轮询拉取后以气泡播报。配合 xiaoya-pet 桌宠使用。
+version: 1.0.0
+author: suiren0219
+repo: https://github.com/suiren0219/astrbot_plugin_xiaoya_feed
+category: 实用工具
+tags:
+  - 桌宠
+  - 信息流

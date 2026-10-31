@@ -1,0 +1,12 @@
+{
+  "token": {
+    "description": "信息流鉴权 token（桌宠 companion.json 的 feed_key 需与此一致）",
+    "type": "string",
+    "default": "xiaoya-feed-6K2M"
+  },
+  "port": {
+    "description": "信息流 HTTP 监听端口",
+    "type": "int",
+    "default": 6186
+  }
+}
