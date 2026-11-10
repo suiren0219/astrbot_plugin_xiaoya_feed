@@ -18,3 +18,9 @@ AstrBot WebUI → 插件 → 从 GitHub 安装 → 填本仓库地址。
 
 ## 安全提示
 端口对外开放会暴露消息内容，token 请改成足够长的随机串（桌宠侧同步修改）。
+
+## 许可证
+
+本项目以 [GNU Affero General Public License v3.0](LICENSE)（AGPL-3.0）开源。
+
+允许自由使用、学习、修改及商业分发；若分发修改版，或以网络服务形式向他人提供本项目或修改版，须同样以 AGPL-3.0 公开完整对应源代码。协议全文见 [LICENSE](LICENSE)。
